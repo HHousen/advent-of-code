@@ -43,3 +43,6 @@ oxygen = search_bits(puzzle_input, default_new_num="1", common=0)
 co2 = search_bits(puzzle_input, default_new_num="0", common=-1)
 
 print(f"Part 2 Solution: {int(co2,2)*int(oxygen,2)}")
+
+# Part 1 Solution: 3549854
+# Part 2 Solution: 3765399

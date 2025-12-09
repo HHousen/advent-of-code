@@ -70,3 +70,6 @@ _, winner_deck_2 = play_recursive_combat_round(deck_1.copy(), deck_2.copy())
 winner_deck_2.reverse()
 winner_score_2 = calculate_score(winner_deck_2)
 print("Second Puzzle Winner Score: %i" % winner_score_2)
+
+# Part 1 Solution: 32448
+# Part 2 Solution: 32949

@@ -64,3 +64,6 @@ def permute(adapter_idx):
 
 
 print("Second Puzzle Number of Permutations: %i" % permute(0))
+
+# Part 1 Solution: 2210
+# Part 2 Solution: 7086739046912

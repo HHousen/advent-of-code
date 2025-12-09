@@ -225,3 +225,6 @@ largest_manhattan_distance = max(  # Find the largest distance out of all distan
     for scanner_a_position, scanner_b_position in combinations(scanner_positions, 2)
 )
 print(f"Part 2 Solution: {largest_manhattan_distance}")
+
+# Part 1 Solution: 445
+# Part 2 Solution: 13225

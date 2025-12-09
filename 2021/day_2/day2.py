@@ -26,3 +26,6 @@ for command, amount in puzzle_input:
         aim += int(amount)
 
 print(f"Part 2 Solution: {horizontal*depth}")
+
+# Part 1 Solution: 1813801
+# Part 2 Solution: 1960569556

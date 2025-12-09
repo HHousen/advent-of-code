@@ -93,3 +93,6 @@ departure_field_values = [int(my_ticket[x]) for x in departure_field_idxs]
 departure_field_values_mult = math.prod(departure_field_values)
 
 print("Second Puzzle Product of Departure Values: %i" % departure_field_values_mult)
+
+# Part 1 Solution: 18142
+# Part 2 Solution: 1069784384303

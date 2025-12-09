@@ -63,3 +63,5 @@ def print_grid(dots):
 
 print("Part 2 Solution:")
 print_grid(dots)
+
+# Part 1 Solution: 731

@@ -102,3 +102,6 @@ packet_versions_sum = sum(packet_versions)
 
 print(f"Part 1 Solution: {packet_versions_sum}")
 print(f"Part 2 Solution: {final_packet_output}")
+
+# Part 1 Solution: 979
+# Part 2 Solution: 277110354175

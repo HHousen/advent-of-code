@@ -79,3 +79,6 @@ memory_sum_1 = emulator(part_1_create_memory)
 print("First Puzzle Sum of Values in Memory: %i" % memory_sum_1)
 memory_sum_2 = emulator(part_2_create_memory)
 print("First Puzzle Sum of Values in Memory: %i" % memory_sum_2)
+
+# Part 1 Solution: 3059488894985
+# Part 2 Solution: 2900994392308

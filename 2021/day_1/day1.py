@@ -19,3 +19,6 @@ sliding_window_data = [
 part2_solution = count_greater(sliding_window_data)
 
 print(f"Part 2 Solution: {part2_solution}")
+
+# Part 1 Solution: 1832
+# Part 2 Solution: 1858

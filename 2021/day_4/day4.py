@@ -59,3 +59,6 @@ def get_last_winning_board(draw_order, boards):
 last_winning_board, numbers_drawn = get_last_winning_board(draw_order, boards)
 part2_solution = get_board_score(last_winning_board, numbers_drawn)
 print(f"Part 2 Solution: {part2_solution}")
+
+# Part 1 Solution: 34506
+# Part 2 Solution: 7686

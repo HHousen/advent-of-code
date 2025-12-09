@@ -85,3 +85,6 @@ while True:
 
 print(f"Part 1 Solution: {part1_solution}")
 print(f"Part 2 Solution: {part2_solution}")
+
+# Part 1 Solution: 1649
+# Part 2 Solution: 256

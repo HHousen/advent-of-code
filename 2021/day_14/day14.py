@@ -57,3 +57,6 @@ part1_solution = solve(10, character_counts.copy(), pairs.copy())
 print(f"Part 1 Solution: {part1_solution}")
 part2_solution = solve(40, character_counts.copy(), pairs.copy())
 print(f"Part 2 Solution: {part2_solution}")
+
+# Part 1 Solution: 2587
+# Part 2 Solution: 3318837563123

@@ -26,3 +26,6 @@ num_trees_prod = math.prod(num_trees)
 
 print("First Puzzle: Number of Trees with Slope Right 3 Down 1: %i" % num_trees[1])
 print("Second Puzzle: Multipied Number of Trees: %i" % num_trees_prod)
+
+# Part 1 Solution: 205
+# Part 2 Solution: 3952146825

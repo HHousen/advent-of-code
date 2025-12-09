@@ -84,3 +84,6 @@ def part2(position1, position2, score1=0, score2=0):
 
 part2_solution = max(part2(position1, position2))
 print(f"Part 2 Solution: {part2_solution}")
+
+# Part 1 Solution: 908595
+# Part 2 Solution: 91559198282731

@@ -52,3 +52,6 @@ dimensions_3 = conway_cubes(np.copy(energy_source), 3)
 dimensions_4 = conway_cubes(np.copy(energy_source), 4)
 print("First Puzzle 3 Dimensions Number Active Cubes: %i" % dimensions_3)
 print("First Puzzle 4 Dimensions Number Active Cubes: %i" % dimensions_4)
+
+# Part 1 Solution: 286
+# Part 2 Solution: 960

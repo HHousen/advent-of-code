@@ -42,3 +42,6 @@ print(f"Part 1 Solution: {part1_solution}")
 
 part2_solution = solve(puzzle_input, count_diagonals=True)
 print(f"Part 1 Solution: {part2_solution}")
+
+# Part 1 Solution: 7674
+# Part 2 Solution: 20898

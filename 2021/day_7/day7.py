@@ -35,3 +35,6 @@ for align_position in range(
 # The solution is the amount of fuel needed for the optimal alignment position.
 print(f"Part 1 Solution: {min(part1_fuel_amounts)}")
 print(f"Part 2 Solution: {min(part2_fuel_amounts)}")
+
+# Part 1 Solution: 336131
+# Part 2 Solution: 92676646

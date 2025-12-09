@@ -100,3 +100,6 @@ for input_output_tuple in tqdm(puzzle_input, "Bruteforcing"):
 
 
 print(f"Part 2 Solution: {sum(display_values)}")
+
+# Part 1 Solution: 534
+# Part 2 Solution: 1070188

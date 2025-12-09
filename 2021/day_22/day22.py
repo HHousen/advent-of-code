@@ -86,3 +86,6 @@ part1_solution = solve(part1=True)
 print(f"Part 1 Solution: {part1_solution}")
 part2_solution = solve(part1=False)
 print(f"Part 2 Solution: {part2_solution}")
+
+# Part 1 Solution: 648023
+# Part 2 Solution: 1285677377848549

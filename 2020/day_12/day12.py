@@ -80,3 +80,6 @@ print("First Puzzle Manhattan Distance: %i" % ship.get_manhattan_distance())
 waypoint_ship = WaypointShip()
 waypoint_ship.do_moves(puzzle_input)
 print("Second Puzzle Manhattan Distance: %i" % waypoint_ship.get_manhattan_distance())
+
+# Part 1 Solution: 845
+# Part 2 Solution: 27016

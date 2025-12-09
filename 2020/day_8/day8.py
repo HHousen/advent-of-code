@@ -51,3 +51,6 @@ for idx, _ in enumerate(program):
         break
 
 print("Second Puzzle Accumulator Value: %i" % accumulator_second)
+
+# Part 1 Solution: 2014
+# Part 2 Solution: 2251

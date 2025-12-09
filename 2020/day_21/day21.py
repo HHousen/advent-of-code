@@ -71,3 +71,5 @@ while not answers_found:
 alphabetized_allergens = [x[1] for x in sorted(guaranteed_allergens.items())]
 dangerous_ingredients = ",".join(alphabetized_allergens)
 print("Second Puzzle Canonical Dangerous Ingredient List: %s" % dangerous_ingredients)
+
+# Part 1 Solution: 2230

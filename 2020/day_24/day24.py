@@ -79,3 +79,6 @@ for turn in range(100):
 
 num_black_tiles = len(black_tiles)
 print("Second Puzzle Number Black Tiles: %i" % num_black_tiles)
+
+# Part 1 Solution: 330
+# Part 2 Solution: 3711

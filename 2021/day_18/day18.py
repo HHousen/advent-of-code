@@ -154,3 +154,6 @@ largest_2_sum_magnitude = max(
     magnitude(add(a, b)) for a, b in permutations(puzzle_input, 2)
 )
 print(f"Part 2 Solution: {largest_2_sum_magnitude}")
+
+# Part 1 Solution: 4124
+# Part 2 Solution: 4673

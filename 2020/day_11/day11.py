@@ -77,3 +77,6 @@ print("First Puzzle Number of Occupied Seats: %i" % num_occupied_1)
 
 num_occupied_2 = equilibrium_occupied_seats("extended")
 print("Second Puzzle Number of Occupied Seats: %i" % num_occupied_2)
+
+# Part 1 Solution: 2338
+# Part 2 Solution: 2134

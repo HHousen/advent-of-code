@@ -48,3 +48,6 @@ def countBagsInside(bags, outerBag):
 bags_inside_shiny_gold = count_bags_inside("shiny gold")
 
 print("Second Puzzle Total Number Bags Inside Shiny Gold Bags: %i" % bags_inside_shiny_gold)
+
+# Part 1 Solution: 370
+# Part 2 Solution: 29547

@@ -71,3 +71,6 @@ print(f"Part 1 Solution: {part1_num_paths}")
 # Find the number of paths when you can visit a single small cave twice.
 part2_num_paths = find_paths("start", set(), False, allow_duplicate=True)
 print(f"Part 2 Solution: {part2_num_paths}")
+
+# Part 1 Solution: 4720
+# Part 2 Solution: 147848

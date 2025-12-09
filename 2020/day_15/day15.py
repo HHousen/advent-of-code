@@ -32,3 +32,6 @@ for limit in [2020, 30_000_000]:
 
 print("First Puzzle 2020th Number: %i" % answers[0])
 print("Second Puzzle 30,000,000th Number: %i" % answers[1])
+
+# Part 1 Solution: 1259
+# Part 2 Solution: 689

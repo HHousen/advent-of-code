@@ -40,3 +40,6 @@ same_precedence = sum(evaluate(expression) for expression in puzzle_input)
 print("First Puzzle Same Precedence: %i" % same_precedence)
 greater_precedence = sum(evaluate(expression, use_part_2=True) for expression in puzzle_input)
 print("Second Puzzle Greater Precedence: %i" % greater_precedence)
+
+# Part 1 Solution: 45840336521334
+# Part 2 Solution: 328920644404583

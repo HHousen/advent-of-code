@@ -23,3 +23,6 @@ print("First Puzzle Total Group Anyone Yes Answers: %i" % total_group_unique_ans
 
 total_group_everyone_answers = sum(group_everyone_answers)
 print("Second Puzzle Total Group Everyone Yes Answers: %i" % total_group_everyone_answers)
+
+# Part 1 Solution: 7128
+# Part 2 Solution: 3640

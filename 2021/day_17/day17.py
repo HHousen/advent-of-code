@@ -66,3 +66,6 @@ for x_velocity in range(1, x2 + 1):
 # Count the number of velocity combinations that were hits.
 num_valid_initial_velocities = sum(hits)
 print(f"Part 2 Solution: {num_valid_initial_velocities}")
+
+# Part 1 Solution: 10878
+# Part 2 Solution: 4716

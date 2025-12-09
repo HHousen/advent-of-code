@@ -39,3 +39,6 @@ missing_seat_ids = all_seat_ids - set(seat_ids)
 
 your_seat_id = missing_seat_ids.pop()
 print("Second Puzzle Your Seat ID: %i" % your_seat_id)
+
+# Part 1 Solution: 801
+# Part 2 Solution: 597

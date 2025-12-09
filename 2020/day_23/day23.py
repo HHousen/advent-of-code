@@ -105,3 +105,6 @@ cups = play(cups, first_cup, int(1e7))
 label_1_cup = cups[1]
 next_cups_mult = label_1_cup.next.value * label_1_cup.next.next.value
 print("Second Puzzle 1e6 cups and 1e7 turns: %i" % next_cups_mult)
+
+# Part 1 Solution: 32658947
+# Part 2 Solution: 683486010900

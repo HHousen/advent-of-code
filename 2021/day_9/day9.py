@@ -67,3 +67,6 @@ basins_lengths = sorted(len(basin) for basin in basins)
 part2_solution = math.prod(basins_lengths[-3:])
 
 print(f"Part 2 Solution: {part2_solution}")
+
+# Part 1 Solution: 580
+# Part 2 Solution: 856716

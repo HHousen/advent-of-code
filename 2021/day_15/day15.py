@@ -117,3 +117,6 @@ part2_grid = expand_grid(puzzle_input)
 part2_min_risk = dijkstra(part2_grid)
 
 print(f"Part 2 Solution: {part2_min_risk}")
+
+# Part 1 Solution: 410
+# Part 2 Solution: 2809

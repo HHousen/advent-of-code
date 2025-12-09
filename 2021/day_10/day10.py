@@ -63,3 +63,6 @@ print(f"Part 1 Solution: {part1_solution}")
 
 part2_solution = median(part2_line_scores)
 print(f"Part 2 Solution: {part2_solution}")
+
+# Part 1 Solution: 339537
+# Part 2 Solution: 2412013412

@@ -17,3 +17,6 @@ def find_solution(puzzle_input, num_entries):
 for idx, num in enumerate(num_entries):
     solution = find_solution(puzzle_input, num)
     print("Solution %i: %s" % (idx + 1, solution))
+
+# Part 1 Solution: 388075
+# Part 2 Solution: 293450526

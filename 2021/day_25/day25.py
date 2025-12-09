@@ -60,3 +60,5 @@ while current_step_num_moves != 0:
 
 
 print(f"Part 1 Solution: {step}")
+
+# Part 1 Solution: 400

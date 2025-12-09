@@ -55,3 +55,6 @@ for step in range(num_steps):
 # Count the number of pixels after `num_steps` (50) steps.
 part2_solution = image.sum()
 print(f"Part 2 Solution: {part2_solution}")
+
+# Part 1 Solution: 5663
+# Part 2 Solution: 19638

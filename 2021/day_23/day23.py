@@ -204,3 +204,6 @@ puzzle_input.insert(4, "  #D#B#A#C#")
 starting_state, target_state = initialize(puzzle_input)
 part2_solution = steps_to_final(starting_state, target_state)
 print(f"Part 2 Solution: {part2_solution}")
+
+# Part 1 Solution: 15538
+# Part 2 Solution: 47258

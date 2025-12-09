@@ -35,3 +35,6 @@ for idx, number in enumerate(puzzle_input):
 number_sum = sum(number_min_max)
 
 print("Second Puzzle Sum of Smallest and Largest Numbers in Contiguous Range: %i" % number_sum)
+
+# Part 1 Solution: 29221323
+# Part 2 Solution: 4389369

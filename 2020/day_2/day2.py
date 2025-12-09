@@ -28,3 +28,6 @@ print("First Puzzle: Number of Valid Passwords: %i" % num_passwords_valid_1)
 
 print("Second Puzzle: Number of Valid Passwords: %i" % num_passwords_valid_2)
 
+
+# Part 1 Solution: 655
+# Part 2 Solution: 673

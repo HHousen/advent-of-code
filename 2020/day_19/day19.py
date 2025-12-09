@@ -64,3 +64,6 @@ print("First Puzzle: %i" % count_matches(rule_0, messages))
 
 rule_0 = parse("0", loop=True) + "$"
 print("Second Puzzle: %i" % count_matches(rule_0, messages))
+
+# Part 1 Solution: 235
+# Part 2 Solution: 379

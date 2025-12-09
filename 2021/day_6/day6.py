@@ -39,3 +39,6 @@ def simulate_days(num_days, age_to_count):
 
 print(f"Part 1 Solution: {simulate_days(80, age_to_count)}")
 print(f"Part 2 Solution: {simulate_days(256, age_to_count)}")
+
+# Part 1 Solution: 379414
+# Part 2 Solution: 1705008653296

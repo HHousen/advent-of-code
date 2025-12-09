@@ -86,3 +86,6 @@ print("   --> Use 0 for n since the question asks for the first time.")
 
 print("First Puzzle Bus ID Times Time: %i" % nearest_bus_multiplied)
 print("Second Puzzle Earliest Timestamp Offsets Match: %i" % chinese_remainder(n, a))
+
+# Part 1 Solution: 2305
+# Part 2 Solution: 552612234243498

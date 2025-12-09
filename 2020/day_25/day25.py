@@ -28,3 +28,5 @@ secret_key = pow(
     public_key_2 if value == public_key_1 else public_key_1, loop_size, 20201227
 )
 print("First Puzzle: %i" % secret_key)
+
+# Part 1 Solution: 6011069

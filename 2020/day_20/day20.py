@@ -217,3 +217,6 @@ num_not_part_of_sea_monster = total_true_values - sea_monster_total
 print(
     "Second Puzzle Number '#' Not Part of Sea Monster: %i" % num_not_part_of_sea_monster
 )
+
+# Part 1 Solution: 29125888761511
+# Part 2 Solution: 2219

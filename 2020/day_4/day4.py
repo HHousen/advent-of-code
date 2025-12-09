@@ -50,3 +50,6 @@ print("First Puzzle Number Valid Passports: %i" % num_valid_1)
 
 num_valid_2 = sum(check_valid_2(passport) for passport in passports)
 print("Second Puzzle Number Valid Passports: %i" % num_valid_2)
+
+# Part 1 Solution: 230
+# Part 2 Solution: 156
